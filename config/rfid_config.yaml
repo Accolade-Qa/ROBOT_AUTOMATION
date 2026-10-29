@@ -1,0 +1,10 @@
+# Physical RFID reader connection settings.
+board:
+  name: RFID Reader
+  uart:
+    port: COM5
+    baudrate: 115200
+
+can:
+  monitoring_tool: PCAN-View
+  programmable_interface_confirmed: false

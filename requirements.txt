@@ -1,0 +1,4 @@
+robotframework==7.0
+pyserial==3.5
+pyyaml==6.0.3
+python-can==4.6.1
